@@ -79,6 +79,10 @@ ul.yellow:hover {
   color: #edd934;
 }
 
+ul.purple:hover {
+  color: #a374ff;
+}
+
 .nav-title {
   font-size: 22px;
   font-weight: bold;
@@ -93,7 +97,7 @@ ul.yellow:hover {
   text-align: center;
   font-family: 'Iosevka';
   background-color: #1b1b1b;
-  border: 10px solid #1b1b1b;
+  border: 5px solid #1b1b1b;
   border-radius: 10px;
 }
 
@@ -111,7 +115,7 @@ ul.yellow:hover {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  width: 770px;
+  width: 910px;
   height: 600px;
 }
 
